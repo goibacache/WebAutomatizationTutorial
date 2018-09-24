@@ -49,5 +49,3 @@ if __name__ == "__main__":
             downloadVideo(video)
 
     driver.get("http://portal.pushbullet.com/")
-        
-# driver.close()
