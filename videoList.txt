@@ -1,3 +1,3 @@
-# Separate every video URL with the enter key and yes, couple of videos here so you can test it
+# Separate every video URL with the enter key and yes, you can actually put comments
 https://www.youtube.com/watch?v=QUvVdTlA23w
 https://www.youtube.com/watch?v=dR1NcSraAz0
