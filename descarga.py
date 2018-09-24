@@ -35,7 +35,7 @@ if __name__ == "__main__":
     
     videoURLs = videoList.read().split('\n');
     
-    print("Press Enter to start Downloading.")
+    input("Press Enter to start Downloading.")
     
     #Open the browser / Start the driver
     driver = webdriver.Chrome()
